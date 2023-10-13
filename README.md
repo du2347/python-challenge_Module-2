@@ -18,9 +18,9 @@ The CSV file (budget_data.csv.xls) that has PyBank data for reference.
 
 ### PyRamen - Data Analysis 
 ##### Objective: Analyzing product performance per-product analysis for a fictional company by manipulating data through Python.
-It should be noted this financial script and analysis is slightly different from PyBank and has more objectives such as data manipulation. 
+It should be noted this financial script and analysis is slightly different from PyBank and has more objectives, such as data manipulation. 
 
-The purpose of utilizing Python in this context is to provide a more innovative, effective, and efficient solution to formulate conditions on a corporation's performance per-product basis to identify which products should be eliminated or modified. 
+The purpose of using Python in this context is to provide a more innovative, effective, and efficient solution to formulate conclusions on a corporation's performance per-product basis and identify which products should be eliminated or modified. 
 
 Using Python codes and a well-defined financial script such as the one in this file allows an enterprise to automate its calculations to ensure it can adapt and grow with evolving business needs. 
 
