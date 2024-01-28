@@ -1,6 +1,6 @@
 # Module 2: Python Challenge 
-### PyBank - Financial Script and Analysis
-##### Objective: Creating a financial script that analyzes the financial records of a company (fictional)
+## PyBank - Financial Script and Analysis
+### Objective: Creating a financial script that analyzes the financial records of a company (fictional)
 
 Financial script and analysis for PyBank (fictional corporation). 
 The PyBank file contains a  Python script and analysis for PyBank (a fictional corporation)
@@ -16,8 +16,8 @@ This file also contains:
 Financial analysis text with a concluding statement that answers the aforementioned objectives. 
 The CSV file (budget_data.csv.xls) that has PyBank data for reference.
 
-### PyRamen - Data Analysis 
-##### Objective: Analyzing product performance per-product analysis for a fictional company by manipulating data through Python.
+## PyRamen - Data Analysis 
+### Objective: Analyzing product performance per-product analysis for a fictional company by manipulating data through Python.
 It should be noted this financial script and analysis is slightly different from PyBank and has more objectives, such as data manipulation. 
 
 The purpose of using Python in this context is to provide a more innovative, effective, and efficient solution to formulate conclusions on a corporation's performance per-product basis and identify which products should be eliminated or modified. 
